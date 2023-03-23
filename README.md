@@ -2,7 +2,7 @@
 - 🏘️ I live in Tomsk, Russia
 - 🔭 I’m currently working in [Shift Lab, CFT](https://team.cft.ru/start/lab?ysclid=ld5pqdm6bw308178375)
 - 🌱 I’m currently learning android development and kotlin
-### Tech stack
+### Tech stack 🧠
 - Android SDK
 - Kotlin, Java
 - API (Retrofit 2, OkHttp, Gson)
