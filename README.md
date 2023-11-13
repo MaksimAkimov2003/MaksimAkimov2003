@@ -1,6 +1,6 @@
 ### Hi there 👋 , my name is Maksim and i am an android-developer 📱
 - 🏘️ I live in Tomsk, Russia
-- 🔭 I’m currently working in [Shift Lab, CFT](https://team.cft.ru/start/lab?ysclid=ld5pqdm6bw308178375)
+- 🔭 I’m currently working in [Indorsoft](https://www.indorsoft.ru/)
 - 🌱 I’m currently learning android development and kotlin
 ### Tech stack 🧠
 - Android SDK
